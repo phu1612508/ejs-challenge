@@ -5,8 +5,5 @@
 
 ##### Technical: javascript
 ##### Detail:
-* Add simple animation.
-* Add sounds.
-* Add event.
-* Handle when event active.
+
 ### Link: 
